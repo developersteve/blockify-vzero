@@ -1,0 +1,28 @@
+.blockify-vzero {
+	padding: 64px 0;
+	background: #e5e5e5;
+	text-align: center;
+}
+
+.blockify-vzero .container {
+  margin-top: 48px;
+  margin-bottom: 48px;
+}
+
+.blockify-vzero > div > h1,
+.blockify-vzero > div > h5 {
+	margin: 0 0 16px;
+}
+
+.blockify-vzero > div > h4 {
+	opacity: 0.8;
+}
+
+.blockify-vzero .row {
+	margin-top: 48px;
+	text-align: left;
+}
+
+.dotblock{
+    padding-top: 3%;
+}

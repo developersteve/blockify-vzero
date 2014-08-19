@@ -1,0 +1,17 @@
+{
+  "name": "blockify-vzero",
+  "version": "0.1.0",
+  "description": "Braintree V.Zero block",
+  "keywords": ["braintree", "vzero"],
+  "author": "developersteve",
+  "template": {
+        "environment": "sandbox",
+        "merchantId": "23nd25g4kn7gnqbb",
+        "publicKey": "8552x2ym5bvhsycp",
+        "privateKey": "17f3279171d4fd90ee9cd5256be17abf",
+        "testsale": 10.00,
+        "desc": "Naked for satan temper trap, hipsters bill clinton ate two bowls presets frankston bogans ticket inspector, yarra richmond tigers citylink fed square cookie, myki queues werribee wildlife warehouse chic chopper read east brunswick club, carlton emerald peacock melb",
+        "error": "Something has gone wrong with your payment",
+        "success": "Thank you, your payment has been received"
+   }
+}
