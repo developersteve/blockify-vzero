@@ -1,17 +1,18 @@
 {
   "name": "blockify-vzero",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Braintree V.Zero block",
   "keywords": ["braintree", "vzero"],
   "author": "developersteve",
   "template": {
-        "environment": "sandbox",
-        "merchantId": "23nd25g4kn7gnqbb",
-        "publicKey": "8552x2ym5bvhsycp",
-        "privateKey": "17f3279171d4fd90ee9cd5256be17abf",
-        "testsale": 10.00,
-        "desc": "Naked for satan temper trap, hipsters bill clinton ate two bowls presets frankston bogans ticket inspector, yarra richmond tigers citylink fed square cookie, myki queues werribee wildlife warehouse chic chopper read east brunswick club, carlton emerald peacock melb",
-        "error": "Something has gone wrong with your payment",
-        "success": "Thank you, your payment has been received"
+     "@type": "VZeroConfigure",
+      "environment": "sandbox",
+      "merchantId": "ffdqc9fyffn7yn2j",
+      "publicKey": "qj65nndbnn6qyjkp",
+      "privateKey": "a3de3bb7dddf68ed3c33f4eb6d9579ca",
+      "testsale": 10.00,
+      "desc": "Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck. Social bookmarking group buying crowded market pivot onboarding freemium prototype ping pong. Early stage disruptive ecosystem community outreach dynamic location based strategic investor.",
+      "error": "Something has gone wrong with your payment",
+      "success": "Thank you, your payment has been received"
    }
 }
