@@ -5,7 +5,7 @@
   "keywords": ["braintree", "vzero"],
   "author": "developersteve",
   "template": {
-     "@type": "VZeroConfigure",
+     "@type": "thing",
       "environment": "sandbox",
       "merchantId": "ffdqc9fyffn7yn2j",
       "publicKey": "qj65nndbnn6qyjkp",
