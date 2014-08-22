@@ -1,11 +1,11 @@
 {
   "name": "blockify-vzero",
-  "version": "0.1.1",
+  "version": "0.1.11",
   "description": "Braintree V.Zero block",
   "keywords": ["braintree", "vzero"],
   "author": "developersteve",
   "template": {
-     "@type": "thing",
+     "@type": "Thing",
       "environment": "sandbox",
       "merchantId": "ffdqc9fyffn7yn2j",
       "publicKey": "qj65nndbnn6qyjkp",
